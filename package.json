@@ -1,0 +1,24 @@
+{
+  "name": "drop-down-menu",
+  "version": "1.0.0",
+  "description": "Training for theodin-project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mostafakamar2308/DropDownMenu.git"
+  },
+  "keywords": [
+    "Drop",
+    "Down"
+  ],
+  "author": "Mostafa Kamar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mostafakamar2308/DropDownMenu/issues"
+  },
+  "homepage": "https://github.com/mostafakamar2308/DropDownMenu#readme",
+  "devDependencies": {}
+}
