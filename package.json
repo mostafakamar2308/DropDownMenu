@@ -20,5 +20,9 @@
     "url": "https://github.com/mostafakamar2308/DropDownMenu/issues"
   },
   "homepage": "https://github.com/mostafakamar2308/DropDownMenu#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "file-loader": "^6.2.0",
+    "webpack": "^5.69.1",
+    "webpack-cli": "^4.9.2"
+  }
 }
